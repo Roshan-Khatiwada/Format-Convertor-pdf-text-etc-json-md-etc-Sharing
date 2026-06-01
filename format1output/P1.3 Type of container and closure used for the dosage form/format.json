@@ -1,0 +1,32 @@
+{
+  "section_code": "p1.3",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Description — container and closure for dosage form and reconstitution diluent (if applicable).",
+  "components": [
+    {
+      "section_code": "P 1",
+      "type": "section_header",
+      "title": "DESCRIPTION AND COMPOSITION",
+      "section_number": "P 1",
+      "section_title": "DESCRIPTION AND COMPOSITION"
+    },
+    {
+      "section_code": "P 1.3",
+      "type": "section_header",
+      "title": "Drug Product Description",
+      "section_number": "P 1.3",
+      "section_title": "Drug Product Description"
+    },
+    {
+      "section_code": "container_closure_system",
+      "type": "text",
+      "title": "Type of container and closure used for the dosage form and reconstitution diluent, if applicable",
+      "prompt": "Describe the immediate container-closure system and pack configuration exactly as per dossier (e.g., Alu/Alu strip, count per strip, strips per carton, pack insert). Do not include composition or stability data.",
+      "example": "10 capsules packed in an Alu/Alu strip. Such 3 strips packed in a carton with pack insert.",
+      "section_number": "a",
+      "section_title": "Type of container and closure used for the dosage form and reconstitution diluent, if applicable",
+      "content": "Packing details:\nALU/ALU Blister pack of 10 tablets, such a 10 blisters packed into a carton along with\npack insert."
+    }
+  ],
+  "source_pdf": "E:\\Format-Convertor-pdf-text-etc-json-md-etc-Sharing\\P 1 Description and Composition.pdf"
+}

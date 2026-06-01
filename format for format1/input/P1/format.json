@@ -1,0 +1,504 @@
+{
+  "section_code": "P 1 Description and Composition",
+  "dossier_type": "product",
+  "_instruction": "Generate P 1 Description and Composition from SECTION DATA",
+  "components": [
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 1,
+      "content": "Leben Life Sciences Pvt. Ltd."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 2,
+      "content": "Product Name: Solifenacin Succinate Tablets BP 5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 3,
+      "content": "P 1 Description and Composition"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 4,
+      "content": "a."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 5,
+      "content": "Composition"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 6,
+      "content": "Each Film coated tablet contains:"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 7,
+      "content": "Solifenacin Succinate BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 8,
+      "content": "5 mg"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 9,
+      "content": "Excipients"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 10,
+      "content": "q.s."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 11,
+      "content": "b. Description"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 12,
+      "content": "Light Yellow coloured, round shaped, film coated tablet plain on both sides."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 13,
+      "content": "c."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 14,
+      "content": "Dosage Form: Tablets"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 15,
+      "content": "d. Packing details:"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 16,
+      "content": "ALU/ALU Blister pack of 10 tablets, such a 10 blisters packed into a carton along with"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 17,
+      "content": "pack insert."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 18,
+      "content": "e."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 19,
+      "content": "Qualitative & Quantitative Formula (Unit Formula):"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 20,
+      "content": "Ingredients"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 21,
+      "content": "Specification"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 22,
+      "content": "Quantity/"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 23,
+      "content": "Functions"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 24,
+      "content": "Tablet in mg"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 25,
+      "content": "Dry mix"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 26,
+      "content": "Solifenacin Succinate"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 27,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 28,
+      "content": "Active"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 29,
+      "content": "5.00"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 30,
+      "content": "substance"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 31,
+      "content": "Lactose Monohydrate"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 32,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 33,
+      "content": "102.50"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 34,
+      "content": "Diluent"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 35,
+      "content": "Maize starch"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 36,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 37,
+      "content": "40.00"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 38,
+      "content": "Diluent"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 39,
+      "content": "Binder"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 40,
+      "content": "Hypromellose"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 41,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 42,
+      "content": "1.00"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 43,
+      "content": "Binder"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 44,
+      "content": "Purified water"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 45,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 46,
+      "content": "q.s."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 47,
+      "content": "Solvent"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 48,
+      "content": "Lubrication"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 49,
+      "content": "Magnesium Stearate"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 50,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 51,
+      "content": "1.50"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 52,
+      "content": "Lubricant"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 53,
+      "content": "Core Tablet Weight"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 54,
+      "content": "150.00 mg"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 55,
+      "content": "Film Coating"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 56,
+      "content": "Readycoat Iron Oxide Yellow"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 57,
+      "content": "IH"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 58,
+      "content": "3.00"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 59,
+      "content": "Film former"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 60,
+      "content": "36FO193220"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 61,
+      "content": "Purified Water"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 62,
+      "content": "BP"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 63,
+      "content": "q.s."
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 64,
+      "content": "Solvent"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 65,
+      "content": "Total Tablet Weight (Coated)"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 66,
+      "content": "153.00 mg"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 67,
+      "content": "Where as:"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 68,
+      "content": "BP: British Pharmacopoeia"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 69,
+      "content": "IH: In House"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 70,
+      "content": "Confidential!"
+    },
+    {
+      "type": "text",
+      "section_title": null,
+      "page": 1,
+      "sn": 71,
+      "content": "Page 1"
+    }
+  ]
+}

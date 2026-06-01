@@ -1,0 +1,70 @@
+{
+  "section_code": "p1.1",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Description — dosage form and characteristics only. Order: header, description, dosage_form.",
+  "components": [
+    {
+      "section_code": "P 1",
+      "type": "section_header",
+      "title": "DESCRIPTION AND COMPOSITION",
+      "section_number": "P 1",
+      "section_title": "DESCRIPTION AND COMPOSITION"
+    },
+    {
+      "section_code": "P 1.1",
+      "type": "section_header",
+      "title": "Drug Product Description",
+      "section_number": "P 1.1",
+      "section_title": "Drug Product Description"
+    },
+    {
+      "section_code": "dosage_form_and_characteristics",
+      "type": "table",
+      "title": "Dosage form and characteristics",
+      "prompt": "Extract dosage form and characteristics into a 2-column table (Field, Value). Typical fields: Product Name, Generic Name, CAS Register No., Description/Appearance, Label Claim, Shelf Life, Storage Condition. Use dossier text exactly; correct obvious OCR spacing/punctuation only.",
+      "columns": [
+        "Field",
+        "Value"
+      ],
+      "example": [
+        [
+          "Product Name",
+          "TACROMUS-1"
+        ],
+        [
+          "Generic Name",
+          "Tacrolimus Capsules USP 1 mg"
+        ],
+        [
+          "CAS Register No.",
+          "104987-11-3"
+        ],
+        [
+          "Description",
+          "A white colour powder filled in Green/Ivory colour '3' size hard gelatin capsule."
+        ],
+        [
+          "Label Claim",
+          "Each hard gelatin capsule contains: Tacrolimus USP 1 mg; Excipients q.s; Approved colour used in hard gelatin capsule shell."
+        ],
+        [
+          "Shelf Life",
+          "24 months"
+        ],
+        [
+          "Storage Condition",
+          "Store below 30°C. Protect from light. Keep the medicine out of reach of children."
+        ]
+      ],
+      "section_number": "a",
+      "section_title": "Dosage form and characteristics",
+      "rows": [
+        [
+          "Description",
+          "Description"
+        ]
+      ]
+    }
+  ],
+  "source_pdf": "E:\\Format-Convertor-pdf-text-etc-json-md-etc-Sharing\\P 1 Description and Composition.pdf"
+}

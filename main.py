@@ -50,4 +50,4 @@ def parse_pdf_to_json(pdf_path):
 
 
 if __name__ == "__main__":
-    parse_pdf_to_json("P2.2.1 Drug Substance.pdf")
+    parse_pdf_to_json("P 1 Description and Composition.pdf")

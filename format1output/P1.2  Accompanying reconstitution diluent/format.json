@@ -1,0 +1,32 @@
+{
+  "section_code": "p1.2",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Description — reconstitution diluent only. If none, state clearly (e.g. Not applicable).",
+  "components": [
+    {
+      "section_code": "P 1",
+      "type": "section_header",
+      "title": "DESCRIPTION AND COMPOSITION",
+      "section_number": "P 1",
+      "section_title": "DESCRIPTION AND COMPOSITION"
+    },
+    {
+      "section_code": "P 1.2",
+      "type": "section_header",
+      "title": "Drug Product Description",
+      "section_number": "P 1.2",
+      "section_title": "Drug Product Description"
+    },
+    {
+      "section_code": "accompanying_reconstitution_diluents",
+      "type": "text",
+      "title": "Accompanying reconstitution diluent(s) if any",
+      "prompt": "State whether any accompanying reconstitution diluent(s) are supplied with the product. If none, write 'Not applicable.' (or dossier equivalent). One short sentence only.",
+      "example": "Not applicable.",
+      "section_number": "a",
+      "section_title": "Accompanying reconstitution diluent(s) if any",
+      "content": "Diluent\nDiluent"
+    }
+  ],
+  "source_pdf": "E:\\Format-Convertor-pdf-text-etc-json-md-etc-Sharing\\P 1 Description and Composition.pdf"
+}

@@ -1,0 +1,63 @@
+{
+  "section_code": "p1.4",
+  "dossier_type": "product",
+  "_instruction": "Drug Product Composition — name, quantity (metric), function, quality. Table g: category_header + sub_tests grouping mandatory.",
+  "components": [
+    {
+      "section_code": "P 1",
+      "type": "section_header",
+      "title": "DESCRIPTION AND COMPOSITION",
+      "section_number": "P 1",
+      "section_title": "DESCRIPTION AND COMPOSITION"
+    },
+    {
+      "section_code": "P 1.4",
+      "type": "section_header",
+      "title": "Drug Product Composition",
+      "section_number": "P 1.4",
+      "section_title": "Drug Product Composition"
+    },
+    {
+      "section_code": "composition_summary",
+      "type": "table",
+      "table_mode": "grid",
+      "columns": ["Label", "Value"],
+      "title": "Composition summary",
+      "prompt": "Short composition summary (Label/Value): product name, 'Each ... contains' statement, API strength, excipients q.s. No full batch formula here.",
+      "example": [
+        ["Product Name", "TACROMUS-1"],
+        ["Each Hard Gelatin capsule contains", ""],
+        ["Tacrolimus USP", "1 mg"],
+        ["Excipients", "q.s."]
+      ],
+      "section_number": "a",
+      "section_title": "Composition summary"
+    },
+    {
+      "section_code": "unit_formula",
+      "type": "table",
+      "columns": [
+        "S.No",
+        "Ingredients",
+        "Reference",
+        "Label Claim",
+        "Overages",
+        "Quantity per Batch (kg)",
+        "Quantity per Cap (mg)",
+        "Function"
+      ],
+      "title": "Name and quantity stated in metric weight or measures, function and quality",
+      "prompt": "Full qualitative and quantitative composition table. One row per ingredient; include totals/footer rows if present. Preserve pharmacopoeia references (USP, BP, IHS) and overage percentages exactly.",
+      "section_number": "b",
+      "section_title": "Name and quantity stated in metric weight or measures, function and quality"
+    },
+    {
+      "section_code": "abbreviations",
+      "type": "text",
+      "title": "Abbreviations",
+      "prompt": "List abbreviations used in the composition section (e.g., USP, BP, IHS, q.s., NMT, NLT) with expansions as stated in the dossier.",
+      "section_number": "c",
+      "section_title": "Abbreviations"
+    }
+  ]
+}
